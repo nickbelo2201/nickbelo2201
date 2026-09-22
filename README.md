@@ -5,6 +5,8 @@
 
   **Analista de Dados em formação · SQL · Python · PostgreSQL**
   Procurando vaga de **estágio em Dados / BI**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholasbelo/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nickbelo2201@gmail.com)
   ![Local](https://img.shields.io/badge/São%20Paulo-BR-informational?style=flat)
 </div>
@@ -85,4 +87,4 @@ pandas · Git/GitHub
 Estágio em **Dados, BI ou Analytics**, presencial ou híbrido em São Paulo / ABC.
 Disponibilidade para começar imediatamente.
 
-**Fale comigo:** [e-mail](mailto:nickbelo2201@gmail.com)
+**Fale comigo:** [LinkedIn](https://www.linkedin.com/in/nicholasbelo/) · [e-mail](mailto:nickbelo2201@gmail.com)
